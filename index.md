@@ -2,13 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+PhD Thesis - Miquel Casademont Viñas (2024)
 
-[Link to another page](./another-page.html).
+This repository brings together the resources, materials and code generated for and in relation to the doctoral thesis of [Miquel Casademont Viñas](https://orcid.org/0000-0002-2848-9069).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
